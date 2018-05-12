@@ -1,0 +1,46 @@
+_repo: The-Gilpins-and-their-FortunesA-Story-of-Early-Days-in-Australia_21464
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Webb, Archibald
+    aliases:
+    - Webb, Archie
+    - Webb, A. B. (Archibald Bertram)
+    - Webb, Arch.
+    birthdate: 1887
+    deathdate: 1944
+    gutenberg_agent_id: '9893'
+    url: http://www.gutenberg.org/2009/agents/9893
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: A fantastic historical adventure novel by W. H. G. Kingston set in early
+  colonial Australia.
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2007-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Australia -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Gilpins and their Fortunes: A Story of Early Days in Australia'
+url: http://www.gutenberg.org/ebooks/21464
