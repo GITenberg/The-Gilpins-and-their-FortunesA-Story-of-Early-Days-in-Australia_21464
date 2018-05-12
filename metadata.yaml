@@ -27,6 +27,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
 description: A fantastic historical adventure novel by W. H. G. Kingston set in early
   colonial Australia.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21464#The-Gilpins-and-their-FortunesA-Story-of-Early-Days-in-Australia
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2007-05-15'
 gutenberg_type: Text
